@@ -1,0 +1,12 @@
+{
+  "name": "timhopam-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PlayerNguyen/timhopam-server.git",
+  "author": "Player Nguyên <daudaua3782@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  
+  }
+}
